@@ -10,6 +10,7 @@ int main(void)
 	char end;
 	char Start;
 	char End;
+
 	start = 'a';
 	end = 'z';
 	Start = 'A';
