@@ -16,8 +16,10 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	last_digist = n % 10;
 	if (last_digist > 5)
+	{
 		printf("Last digit of %d is %d ", n, last_digist);
 		printf("and is greater than 5\n");
+	}
 	else if (last_digist < 6 && last_digist != 0)
 	{
 		printf("Last digit of %d is %d and ", n, last_digist);
