@@ -5,7 +5,7 @@
  * @b: number two
  * Return: number (Seccess)
  */
-int _isdigit(int c)
+int mul(int c)
 {
 	int m;
 
