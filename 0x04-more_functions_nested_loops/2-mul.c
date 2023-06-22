@@ -5,7 +5,7 @@
  * @b: number two
  * Return: number (Seccess)
  */
-int mul(int c)
+int mul(int a, int b)
 {
 	int m;
 
